@@ -4,12 +4,12 @@ class Solution {
         int largest = nums[0];
         int gdc = 0;
 
-        for (int num : nums) {
-            if (num < smallest) {
-                smallest = num;
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] < smallest) {
+                smallest = nums[i];
             }
-            if (num > largest) {
-                largest = num;
+            if (nums[i] > largest) {
+                largest = nums[i] ;
             }
         }
         for (int i = 1; i <= smallest; i++) {
