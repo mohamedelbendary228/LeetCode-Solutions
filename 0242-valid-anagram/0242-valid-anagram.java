@@ -14,6 +14,6 @@ class Solution {
             map_t.put(c, map_t.getOrDefault(c, 0) + 1);
         }
 
-        return Objects.equals(map_s, map_t);
+        return map_s.equals(map_t);
     }
 }
