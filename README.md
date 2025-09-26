@@ -15,4 +15,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
