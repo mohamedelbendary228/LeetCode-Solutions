@@ -20,10 +20,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +34,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
