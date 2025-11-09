@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
 |  |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
