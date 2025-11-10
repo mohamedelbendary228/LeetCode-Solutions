@@ -1,12 +1,16 @@
 class Solution {
   List<int> twoSum(List<int> numbers, int target) {
-    Map<int, int> freqArray = {};
-    for (int i = 0; i < numbers.length; i++) {
-        int subtractedNumber = target - numbers[i];
-        if (freqArray.containsKey(subtractedNumber)) {
-        return [freqArray[subtractedNumber]! + 1, i + 1];
+    int left = 0;
+    int right = numbers.length - 1;
+
+    while (left < right) {
+        if (numbers[left] + numbers[right] > target) {
+        right--;
+        } else if (numbers[left] + numbers[right] < target) {
+        left++;
+        } else if (numbers[left] + numbers[right] == target) {
+        return [left + 1, right + 1];
         }
-        freqArray[numbers[i]] = i;
     }
 
     return [];
