@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
@@ -47,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/mohamedelbendary228/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
